@@ -28,6 +28,6 @@ By the end of this project, we will have:
 3. **Interactive dashboards** to analyze lapsation trends.  
 4. **Predictive insights** to identify high-risk customers and improve retention.  
 
-This project demonstrates how **data-driven strategies** can reduce policy lapsation and improve business outcomes in the life insurance industry.  
+This project demonstrates how **data-driven strategies** can reduce policy lapsation and improve business outcomes in the life insurance industry 
 
 
